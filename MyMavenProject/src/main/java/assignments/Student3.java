@@ -1,4 +1,4 @@
-package assignments;
+/*package assignments;
 
 public class Student3 {
 	String name;
@@ -51,3 +51,4 @@ public class Student3 {
 	}
 
 }
+*/
